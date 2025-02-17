@@ -1,0 +1,1 @@
+// Contained in this repository is all of my projects that I have worked on to learn beginner level coding. It is a combination of projects I've worked on in Montclair State University, as well as following along a Java course from Alex Lee.
